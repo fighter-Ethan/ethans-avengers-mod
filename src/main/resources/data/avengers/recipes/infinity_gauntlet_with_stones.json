@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#AE",
+    "XOZ"
+  ],
+  "key": {
+    "#": {
+      "item": "avengers:infinity_stone_power"
+    },
+    "A": {
+      "item": "avengers:infinity_stone_space"
+    },
+    "E": {
+      "item": "avengers:infinity_stone_soul"
+    },
+    "X": {
+      "item": "avengers:infinity_stone_time"
+    },
+    "O": {
+      "item": "avengers:infinity_gauntlet"
+    },
+    "Z": {
+      "item": "avengers:infinity_stone_mind"
+    }
+  },
+  "result": {
+    "item": "avengers:infinity_gauntlet_full",
+    "count": 1
+  },
+  "group": "avengers"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#a#",
+    "aaa",
+    "#a#"
+  ],
+  "key": {
+    "#": {
+      "item": "avengers:iron_nail"
+    },
+    "a": {
+      "item": "avengers:vibranium_ingot"
+    }
+  },
+  "result": {
+    "item": "avengers:vibranium_plate",
+    "count": 2
+  }
+}

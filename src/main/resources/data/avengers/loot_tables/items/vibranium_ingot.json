@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "vibranium_ingot",
+  "ingredient": {
+    "item": "avengers:vibranium_ore"
+  },
+  "result": "avengers:vibranium_ingot",
+  "experience": 0.15,
+  "cookingtime": 200
+}

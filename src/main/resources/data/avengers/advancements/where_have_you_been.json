@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "avengers:vibranium_shield"
+    },
+    "title": "Where Have YOU Been All My Life?",
+    "description": "Obtain a Vibranium Shield",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "avengers:vibranium_shield",
+            "count": 1
+          }
+        ]
+      }
+    }
+  }
+}

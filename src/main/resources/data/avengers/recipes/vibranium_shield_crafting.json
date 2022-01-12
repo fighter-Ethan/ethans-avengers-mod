@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#a#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "avengers:vibranium_plate"
+    },
+    "a": {
+      "item": "avengers:vibranium_ingot"
+    }
+  },
+  "result": {
+    "item": "avengers:vibranium_shield",
+    "count": 1
+  },
+  "group": "avengers"
+}
